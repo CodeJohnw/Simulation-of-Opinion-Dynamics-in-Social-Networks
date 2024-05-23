@@ -374,24 +374,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-
-    # return np.random * population
-
-
-
-
-
-'''
-在终端运行
-
-cd "/Users/johnwong/Documents/00 U Course/2023-2024 本地/FCP Summative Assessment"
-#或者
-python3 assignment.py -ising_model
-python3 assignment.py -ising_model -external -0.1
-python3 assignment.py -ising_model -alpha 10
-python3 assignment.py -test_ising
-
-
-
-'''
-
